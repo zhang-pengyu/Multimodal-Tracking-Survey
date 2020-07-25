@@ -11,4 +11,12 @@ A comprehensive survey on multimodal tracking, including RGB-T and RGB-D trackin
  * **TACF**: Yangliu Kuai, Gongjian Wen, Dongdong Li, Jingjing Xiao. Target-Aware Correlation Filter Tracking in RGBD Videos. In _Sensors_ 19(20), 2019. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8752050)
  * **CA3DMS**: Ye Liu, Xiao-Yuan Jing, Jianhui Nie, Hao Gao, Jun Liu, Guo-Ping Jiang. Context-Aware Three-Dimensional Mean-Shift With Occlusion Handling for Robust Object Tracking in RGB-D Videos. In _TMM_ 21(3), 2019. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8425768)
  * **OTOD**:  Yujun Xie, Yao Lu, Shuang Gu. RGB-D Object Tracking with Occlusion Detection. In _CIS_ 2019. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9023755)
- 
+
+ ### 2018
+* **CSR-rgbd**: Uğur Kart, Joni-Kristian Kämäräinen, Jiří Matas. How to Make an RGBD Tracker? In ECCV 2018 Workshop. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-11009-3_8)
+* **DMDCF**: Uğur Kart, Joni-Kristian Kämäräinen, Jiří Matas, Lixin Fan, Francesco Cricri. Depth Masked Discriminative Correlation Filter. [[Paper]](https://arxiv.org/pdf/1802.09227.pdf)
+* **SEOH**:
+* **ARDM**:
+* **OACPF**:
+* **CCF**:
+* **RTKCF**:

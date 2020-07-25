@@ -16,8 +16,17 @@ A comprehensive survey on multimodal tracking, including RGB-T and RGB-D trackin
 * **CSR-rgbd**: Uğur Kart, Joni-Kristian Kämäräinen, Jiří Matas. How to Make an RGBD Tracker? In ECCV 2018 Workshop. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-11009-3_8)
 * **DMDCF**: Uğur Kart, Joni-Kristian Kämäräinen, Jiří Matas, Lixin Fan, Francesco Cricri. Depth Masked Discriminative Correlation Filter. In _ICPR_ 2018. [[Paper]](https://arxiv.org/pdf/1802.09227.pdf)
 * **SEOH**: Jiaxu Leng, Ying Liu. Real-Time RGB-D Visual Tracking With ScaleEstimation and Occlusion Handling. In _Access_ (6), 2018. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8353501)
-* **ARDM**: Jingjing Xiao, Rustam Stolkin, Yuqing Gao, Aleš Leonardis. Robust Fusion of Color and Depth Data for RGB-D Target Tracking Using Adaptive Range-Invariant Depth Models and Spatio-Temporal Consistency Constraints. In _TC_ 48(8) 2018.
-* **OACPF**: Yayu Zhai, Ping Song, Zonglei Mou, Xiaoxiao Chen, Xiongjun Liu. Occlusion-Aware Correlation Particle FilterTarget Tracking Based on RGBD Data. In _Access_ (6), 2018.
+* **ARDM**: Jingjing Xiao, Rustam Stolkin, Yuqing Gao, Aleš Leonardis. Robust Fusion of Color and Depth Data for RGB-D Target Tracking Using Adaptive Range-Invariant Depth Models and Spatio-Temporal Consistency Constraints. In _TC_ 48(8) 2018. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8026575)
+* **OACPF**: Yayu Zhai, Ping Song, Zonglei Mou, Xiaoxiao Chen, Xiongjun Liu. Occlusion-Aware Correlation Particle FilterTarget Tracking Based on RGBD Data. In _Access_ (6), 2018. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8463446)
 * **CCF**: Guanqun Li, Lei Huang, Peichang Zhang, Qiang Li, YongKai Huo. Depth Information Aided Constrained correlation Filter for Visual Tracking. In _GSKI_ 2018.
 [[Paper]](https://iopscience.iop.org/article/10.1088/1755-1315/234/1/012005)
 * **RTKCF**: Han Zhang, Meng Cai, Jianxun Li.  A Real-time RGB-D tracker based on KCF. In _CCDC_ 2018. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8407972)
+ 
+ ### 2017
+ * **ROTSL**: Zi-ang Ma, Zhi-yu Xiang. Robust Object Tracking with RGBD-based Sparse Learning. In _ITEE_ (18), 2017. [[Paper]](https://link.springer.com/article/10.1631/FITEE.1601338)
+ ### 2016
+ * **DLST**:  Ning An, Xiao-Guang Zhao, Zeng-Guang Hou.  Online RGB-D Tracking via Detection-Learning-Segmentation. In _ICPR_ 2016. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7899805)
+ * **DSKCF**: Sion Hannuna, Massimo Camplani, Jake Hall, Majid Mirmehdi, Dima Damen, Tilo Burghardt, Adeline Paiement, Lili Tao. DS-KCF: A Real-time Tracker for RGB-D Data. In RTIP (16), 2016. [[Paper]](https://link.springer.com/content/pdf/10.1007/s11554-016-0654-3.pdf)
+ 
+ 
+

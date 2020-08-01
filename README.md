@@ -13,7 +13,7 @@ A comprehensive survey on multimodal tracking, including RGB-T and RGB-D trackin
  * **OTOD**:  Yujun Xie, Yao Lu, Shuang Gu. RGB-D Object Tracking with Occlusion Detection. In _CIS_ 2019. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9023755)
 
  ### 2018
-* **CSR-rgbd**: Uğur Kart, Joni-Kristian Kämäräinen, Jiří Matas. How to Make an RGBD Tracker? In _ECCV_ 2018 Workshop. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-11009-3_8) [[Code]](http://tracking.cs.princeton.edu/)
+* **CSR-rgbd**: Uğur Kart, Joni-Kristian Kämäräinen, Jiří Matas. How to Make an RGBD Tracker? In _ECCV Workshop_ 2018. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-11009-3_8) [[Code]](http://tracking.cs.princeton.edu/)
 * **DMDCF**: Uğur Kart, Joni-Kristian Kämäräinen, Jiří Matas, Lixin Fan, Francesco Cricri. Depth Masked Discriminative Correlation Filter. In _ICPR_ 2018. [[Paper]](https://arxiv.org/pdf/1802.09227.pdf)
 * **SEOH**: Jiaxu Leng, Ying Liu. Real-Time RGB-D Visual Tracking With ScaleEstimation and Occlusion Handling. In _Access_ (6), 2018. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8353501)
 * **ARDM**: Jingjing Xiao, Rustam Stolkin, Yuqing Gao, Aleš Leonardis. Robust Fusion of Color and Depth Data for RGB-D Target Tracking Using Adaptive Range-Invariant Depth Models and Spatio-Temporal Consistency Constraints. In _TC_ 48(8) 2018. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8026575) [[Code]](https://github.com/shine636363/RGBDtracker)
@@ -60,5 +60,29 @@ Appearance Cues for Robust RGB-T Tracking. In _Arxiv_, 2020. [[Paper]](https://a
 * **ONMF**: Xiangyuan Lan, Mang Ye, Rui Shao, Bineng Zhong, Deepak Kumar Jain, Huiyu Zhou. Online Non-Negative Multi-Modality Feature Template Learning for RGB-Assisted Infrared Tracking. In Access (7), 2019. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8713854)
 * **CMCF**: Sulan Zhai, Pengpeng Shao, Xinyan Liang, Xin Wang. Fast RGB-T Tracking via Cross-Modal Correlation Filters. In Neurocomputing (334), 2019. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231219300347)
 ### 2018
-
-* 
+* **RCDL**: Xiangyuan Lan, Mang Ye, Shengping Zhang, Pong C. Yuen. Robust Collaborative Discriminative Learning for RGB-Infrared Tracking. In AAAI, 2018. [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16878/16289)
+* **MSR**: Xiangyuan Lan, Mang Ye, Shengping Zhang, Huiyu Zhou, Pong C. Yuen. Modality-correlation-aware sparse representation for RGB-infrared object tracking. In _PRL_(130), 2018.
+* **CMR**: Chenglong Li, Chengli Zhu, Yan Huang, Jin Tang, Liang Wang. Cross-Modal Ranking with Soft Consistency and Noisy Labels for Robust RGB-T Tracking. In _ECCV_, 2018. [[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Chenglong_Li_Cross-Modal_Ranking_with_ECCV_2018_paper.pdf)
+* **RMR**: Chenglong Li, Chengli Zhu, Shaofei Zheng, Bin Luo, Jing Tang. Two-Stage Modality-Graphs Regularized Manifold Ranking for RGB-T Tracking. In _SPIC_ (68), 2018. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0923596518304892)
+* **LGMG**:Chenglong Li, Chengli Zhu, Jian Zhang, Bin Luo, Xiaohao Wu, Jin Tang. Learning Local-Global Multi-Graph Descriptors for RGB-T Object Tracking. In _TCSVT_ 29(10), 2018. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8485393)
+* **MDNet-RGBT**: Xingming Zhang, Xuehan Zhang, Xuedan Du, Xiangming Zhou, Jun Yin. Learning Multi-domain Convolutional Network for RGB-T Visual Tracking. In _CISP_, 2018. [[Paper]](https://ieeexplore.ieee.org/document/8633180)
+* **FTSNet**: Chenglong Li, Xiaohao Wu, Nan Zhao, Xiaochun Cao, Jin Tang. Fusing Two-Stream Convolutional Neural Networks for RGB-T Object
+Tracking. In Neurocomputing (281), 2018. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231217318271)
+* **CSCF**: Yulong Wang, Chenglong Li, Jin Tang, and Dengdi Sun. Learning Collaborative Sparse Correlation Filter for Real-Time Multispectral Object Tracking. In _BICS_, 2018. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00563-4_45.pdf)
+### 2017
+* **SGT**: Chenglong Li, Nan Zhao, Yijuan Lu, Chengli Zhu, Jin Tang. Weighted Sparse Representation Regularized Graph Learning
+for RGB-T Object Tracking. In _ACM MM_, 2017. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3123266.3123289)
+* **MLSR**: Chenglong Li, Xiang Sun, Xiao Wang, Lei Zhang, Jin Tang. Grayscale-Thermal Object Tracking via Multitask Laplacian Sparse Representation. In _TSMCS_ 47(4), 2017. [[Paper]](https://ieeexplore.ieee.org/abstract/document/7822984)
+### 2016
+* **RT-LSR**: Chenglong Li, Shiyi Hu, Sihan Gao, Jin Tang. Real-Time Grayscale-Thermal Tracking via Laplacian Sparse Representation. In _MMM_, 2016. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-27674-8_6.pdf)
+* **CSR**: Chenglong Li, Hui Cheng, Shiyi Hu, Xiaobai Liu, Jin Tang, Liang Lin. Learning Collaborative Sparse Representation for Grayscale-Thermal Tracking. In _TIP_ 25(12), 2016.[[Paper]](http://linliang.net/wp-content/uploads/2017/07/TIP-LCSR.pdf)
+### 2011
+* **JSR**: Huaping Liu, Fuchun Sun. Fusion Tracking in Color and Infrared Images using Joint Sparse Representation. IN _IS_ 55(3), 2012. [[Paper]](https://link.springer.com/content/pdf/10.1007/s11432-011-4536-9.pdf)
+* **L1-PF**: Yi Wu, Erik Blasch, Genshe Chen, Li Bai, Haibin Ling. Multiple Source Data Fusion via Sparse Representation for Robust Visual Tracking. IN _ICIF_, 2011. [[Paper]](https://ieeexplore.ieee.org/document/5977451)
+### 2008
+* **PGM**: Siyue Chen, Wenjie Zhu, Henry Leung. Thermo-Visual Video Fusion Using Probabilistic Graphical Model for Human Tracking. In _ISCS_, 2008. [[Paper]](https://ieeexplore.ieee.org/abstract/document/4541820)
+* **MST**: Ciarán Ó Conaire, Noel E. O’Connor, Alan Smeaton. Thermo-Visual Feature Fusion for Object Tracking using Multiple Spatiogram Trackers. In MVA (19), 2008. [[Paper]](https://link.springer.com/content/pdf/10.1007/s00138-007-0078-y.pdf)
+### 2007
+* **PLF**: N. Cvejic, S. G. Nikolov, H. D. Knowles, A. Łoza, A. Achim, D. R. Bull, C. N. Canagarajah. The Effect of Pixel-Level Fusion on Object Tracking in Multi-Sensor Surveillance Video. In _CVPR_, 2007. [[Paper]](https://ieeexplore.ieee.org/document/4270431)
+### 2006
+* **CFM**:C. 0 Conaire, N. E. O'Connor, E. Cooke, A. F. Smeaton. Comparison of Fusion Methods for Thermo-Visual Surveillance Tracking. In _ICIF_ 2006. [[Paper]](http://doras.dcu.ie/226/1/ieee_fusion_2006.pdf)

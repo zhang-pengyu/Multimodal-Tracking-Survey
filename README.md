@@ -27,6 +27,16 @@ A comprehensive survey on multimodal tracking, including RGB-T and RGB-D trackin
  ### 2016
  * **DLST**:  Ning An, Xiao-Guang Zhao, Zeng-Guang Hou.  Online RGB-D Tracking via Detection-Learning-Segmentation. In _ICPR_ 2016. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7899805)
  * **DSKCF**: Sion Hannuna, Massimo Camplani, Jake Hall, Majid Mirmehdi, Dima Damen, Tilo Burghardt, Adeline Paiement, Lili Tao. DS-KCF: A Real-time Tracker for RGB-D Data. In RTIP (16), 2016. [[Paper]](https://link.springer.com/content/pdf/10.1007/s11554-016-0654-3.pdf)
- 
+ * **3DT**: Adel Bibi, Tianzhu Zhang, Bernard Ghanem. 3D Part-Based Sparse Tracker with Automatic Synchronization and Registration. In _CVPR_ 2016. [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bibi_3D_Part-Based_Sparse_CVPR_2016_paper.pdf)
+ * **OAPF**: Kourosh Meshgia, Shin-ichi Maedaa, Shigeyuki Obaa, Henrik Skibbea, Yu-zhe Lia, Shin Ishii. Occlusion Aware Particle Filter Tracker to Handle Complex and Persistent Occlusions. In CVIU (150), 2016. [[Paper]](http://ishiilab.jp/member/meshgi-k/files/ai/prl14/OAPF.pdf)
+ ### 2015
+  * **ISOD**: Yan Chen, Yingju Shen, Xin Liu, Bineng Zhong. 3D Object Tracking via Image Sets and Depth-Based Occlusion Detection. In SP (112), 2015. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0165168414004204)
+  * **DSOH**: Massimo Camplani, Sion Hannuna, Majid Mirmehdi, Dima Damen, Adeline Paiement, Lili Tao, Tilo Burghardt. Real-time RGB-D Tracking with Depth Scaling Kernelised Correlation Filters and Occlusion Handling. In BMVC, 2015. [[Paper]](https://core.ac.uk/reader/78861956)
+  * **DOHR**: Ping Ding, Yan Song. Robust Object Tracking Using Color and Depth Images with a Depth Based Occlusion Handling and Recovery. In _FSKD_, 2015. [[Paper]](https://ieeexplore.ieee.org/document/7382068)
+  * **CDG**: Huizhang Shi, Changxin Gao, Nong Sang. Using Consistency of Depth Gradient to Improve Visual Tracking in RGB-D sequences. In CAC, 2015. [[Paper]](https://ieeexplore.ieee.org/document/7382555)
+  * **OL3DC**: Bineng Zhong, Yingju Shen, Yan Chen, Weibo Xie, Zhen Cui, Hongbo Zhang, Duansheng Chen ,Tian Wang, Xin Liu, Shujuan Peng, Jin Gou, Jixiang Du, Jing Wang, Wenming Zheng. Online Learning 3D Context for Robust Visual Tracking. In Neurocomputing (151), 2015. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231214013757)
+  ### 2014
+  * **MCBT**: Qi Wang, Jianwu Fang, Yuan Yuan. Multi-Cue Based Tracking. In Neurocomputing (131), 2014.[[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.700.8771&rep=rep1&type=pdf)
+  
  
 

@@ -43,3 +43,22 @@ A comprehensive survey on multimodal tracking, including RGB-T and RGB-D trackin
   * **PTB**: Shuran Song, Jianxiong Xiao. Tracking Revisited using RGBD Camera: Unified Benchmark and Baselines. In _ICCV_, 2013. [[Paper]](https://vision.princeton.edu/projects/2013/tracking/paper.pdf) [[Project]](https://tracking.cs.princeton.edu/index.html) [[Dataset]](https://tracking.cs.princeton.edu/dataset.html)
   * **STC**: Jingjing Xiao, Rustam Stolkin, Yuqing Gao, Aleš Leonardis. Robust Fusion of Color and Depth Data for RGB-D Target Tracking Using Adaptive Range-Invariant Depth Models and Spatio-Temporal Consistency Constraints. In _TC_ 48(8) 2018. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8026575) [[Dataset]](https://beardatashare.bham.ac.uk/dl/fiVnhJRjkyNN8QjSAoiGSiBY/RGBDdataset.zip)
   * **CDTB**:Alan Lukezic, Ugur Kart, Jani Kapyla, Ahmed Durmush, Joni-Kristian Kamarainen, Jiri Matas, Matej Kristan. CDTB: A Color and Depth Visual Object Tracking Dataset and Benchmark. In _ICCV_, 2019. [[Paper]](https://arxiv.org/pdf/1907.00618.pdf) [[Project]](https://www.vicos.si/Projects/CDTB) [[Dataset]](https://www.votchallenge.net/vot2019/dataset.html)
+## RGB-T Tracking
+### 2020
+* **CMPP**: Chaoqun Wang, Chunyan Xu, Zhen Cui, Ling Zhou, Tong Zhang, Xiaoya Zhang, Jian Yang. Cross-modal pattern-propagation for RGB-T tracking. In _CVPR_, 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Cross-Modal_Pattern-Propagation_for_RGB-T_Tracking_CVPR_2020_paper.pdf)
+* **MaCNet**: Hui Zhang, Lei Zhang, Li Zhuo, Jing Zhang. Object Tracking in RGB-T Videos Using Modal-Aware Attention Network and Competitive Learning. In _Sensors_ 20(2), 2020. [[Paper]](https://www.mdpi.com/1424-8220/20/2/393)
+* **JMMAC**: Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiaoyun Yang. Jointly Modeling Motion and
+Appearance Cues for Robust RGB-T Tracking. In _Arxiv_, 2020. [[Paper]](https://arxiv.org/pdf/2007.02041.pdf)
+### 2019 
+* **DAPNet**：Yabin Zhu, Chenglong Li, Bin Luo, Jin Tang, Xiao Wang. Dense Feature Aggregation and Pruning for RGBT Tracking. In _ACM MM_, 2019. [[Paper]](https://arxiv.org/pdf/1907.10451.pdf)
+* **HTF**: Chengwei Luo, Bin Sun, Ke Yang, Taoran Lu, Wei-Chang Yeh. Thermal Infrared and Visible Sequences Fusion Tracking based on a Hybrid Tracking Framework with Adaptive Weighting Scheme. In _IPT_ (99), 2019. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1350449519300258)
+* **LMCFT**: Xiangyuan Lan, Mang Ye, Rui Shao, Bineng Zhong, Pong C. Yuen, Huiyu Zhou. Learning Modality-Consistency Feature Templates: A Robust RGB-Infrared Tracking System. In _TIE_ 66(12), 2019. [[Paper]](http://archiv.nexgam.pcsg5.pcsg-server.de/paper_ir_tracker/papers/08643077.pdf)
+* **MANet**: Chenglong Li, Andong Lu, Aihua Zheng, Zhengzheng Tu, Jin Tang. Multi-Adapter RGBT Tracking. In  _ICCV Workshop_, 2019. [[Paper]](https://arxiv.org/abs/1907.07485)
+* **TODA**: Rui Yang, Yabin Zhu, Xiao Wang, Chenglong Li, Jin Tang. Learning Target-Oriented Dual Attention for Robust RGB-T Tracking. In _ICIP_, 2019.[[Paper]](https://arxiv.org/pdf/1908.04441.pdf)
+* **DAFNet**: Yuan Gao, Chenglong Li, Yabin Zhu, Jin Tang, Tao He, Futian Wang. Deep Adaptive Fusion Network for High Performance RGBT Tracking. In _ICCV Workshop_ 2019. [[Paper]](https://openaccess.thecvf.com/content_ICCVW_2019/papers/VISDrone/Gao_Deep_Adaptive_Fusion_Network_for_High_Performance_RGBT_Tracking_ICCVW_2019_paper.pdf)
+* **DiMP-RGBT**: Lichao Zhang, Martin Danelljan, Abel Gonzalez-Garcia, Joost van de Weijer, Fahad Shahbaz Khan. Multi-Modal Fusion for End-to-End RGB-T Tracking. In _ICCV Workshop_, 2019. [[Paper]](https://arxiv.org/pdf/1908.11714.pdf)
+* **ONMF**: Xiangyuan Lan, Mang Ye, Rui Shao, Bineng Zhong, Deepak Kumar Jain, Huiyu Zhou. Online Non-Negative Multi-Modality Feature Template Learning for RGB-Assisted Infrared Tracking. In Access (7), 2019. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8713854)
+* **CMCF**: Sulan Zhai, Pengpeng Shao, Xinyan Liang, Xin Wang. Fast RGB-T Tracking via Cross-Modal Correlation Filters. In Neurocomputing (334), 2019. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231219300347)
+### 2018
+
+* 

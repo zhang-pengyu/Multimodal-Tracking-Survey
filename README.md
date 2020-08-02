@@ -2,12 +2,6 @@
 A comprehensive survey on multimodal tracking, including RGB-T and RGB-D tracking methods. This list will be long-term updating.
 ![alt text](https://github.com/zhang-pengyu/Multimodal_tracking_survey/blob/master/Paper_list_with_taxonomy.png)
 
-
-|  Tracker   |   |
-|  ----  | ----  |
-| 单元格  | 单元格 |
-| 单元格  | 单元格 |
-
 # Multimodal Tracking List
  ## RGB-D tracking
  ### 2020

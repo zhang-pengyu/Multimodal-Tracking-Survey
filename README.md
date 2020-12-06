@@ -1,5 +1,5 @@
 # Multimodal Tracking Survey
-A comprehensive survey on multimodal tracking, including RGB-T and RGB-D tracking methods. This list will be long-term updating. If your related paper is missing in this review, feel free to contact [[pyzhang@mail.dlut.edu.cn]](pyzhang@mail.dlut.edu.cn).
+A comprehensive survey on multimodal tracking, including RGB-T and RGB-D tracking methods. This list will be long-term updating. If your related paper is missing in this review, feel free to contact [pyzhang@mail.dlut.edu.cn](pyzhang@mail.dlut.edu.cn).
 ![alt text](https://github.com/zhang-pengyu/Multimodal_tracking_survey/blob/master/Paper_list_with_taxonomy.png)
 
 # Multimodal Tracking List

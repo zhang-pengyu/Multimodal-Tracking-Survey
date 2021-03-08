@@ -46,6 +46,7 @@ A comprehensive survey on multimodal tracking, including RGB-T and RGB-D trackin
   * **CDTB**:Alan Lukezic, Ugur Kart, Jani Kapyla, Ahmed Durmush, Joni-Kristian Kamarainen, Jiri Matas, Matej Kristan. CDTB: A Color and Depth Visual Object Tracking Dataset and Benchmark. In _ICCV_, 2019. [[Paper]](https://arxiv.org/pdf/1907.00618.pdf) [[Project]](https://www.vicos.si/Projects/CDTB) [[Dataset]](https://www.votchallenge.net/vot2019/dataset.html)
 ## RGB-T Tracking
 ### 2020
+* **CAT**: Chenglong Li, Lei Liu, Andong Lu, Qing Ji, Jin Tang. Challenge-aware RGBT tracking. In _ECCV_, 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670222.pdf)
 * **CMPP**: Chaoqun Wang, Chunyan Xu, Zhen Cui, Ling Zhou, Tong Zhang, Xiaoya Zhang, Jian Yang. Cross-modal pattern-propagation for RGB-T tracking. In _CVPR_, 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Cross-Modal_Pattern-Propagation_for_RGB-T_Tracking_CVPR_2020_paper.pdf)
 * **MaCNet**: Hui Zhang, Lei Zhang, Li Zhuo, Jing Zhang. Object Tracking in RGB-T Videos Using Modal-Aware Attention Network and Competitive Learning. In _Sensors_ 20(2), 2020. [[Paper]](https://www.mdpi.com/1424-8220/20/2/393)
 * **JMMAC**: Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiaoyun Yang. Jointly Modeling Motion and

@@ -45,6 +45,8 @@ A comprehensive survey on multimodal tracking, including RGB-T and RGB-D trackin
   * **STC**: Jingjing Xiao, Rustam Stolkin, Yuqing Gao, Aleš Leonardis. Robust Fusion of Color and Depth Data for RGB-D Target Tracking Using Adaptive Range-Invariant Depth Models and Spatio-Temporal Consistency Constraints. In _TC_ 48(8) 2018. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8026575) [[Dataset]](https://beardatashare.bham.ac.uk/dl/fiVnhJRjkyNN8QjSAoiGSiBY/RGBDdataset.zip)
   * **CDTB**:Alan Lukezic, Ugur Kart, Jani Kapyla, Ahmed Durmush, Joni-Kristian Kamarainen, Jiri Matas, Matej Kristan. CDTB: A Color and Depth Visual Object Tracking Dataset and Benchmark. In _ICCV_, 2019. [[Paper]](https://arxiv.org/pdf/1907.00618.pdf) [[Project]](https://www.vicos.si/Projects/CDTB) [[Dataset]](https://www.votchallenge.net/vot2019/dataset.html)
 ## RGB-T Tracking
+### 2021
+* **SiamIVFN**: Jingchao Peng, Haitao Zhao, Zhengwei Hu, Yi Zhuang and Bofan Wang. Siamese Infrared and Visible light fusion network for RGB-T Tracking. In ArXiv, 2020. [[Paper]](https://arxiv.org/pdf/2103.07302.pdf)
 ### 2020
 * **DMCNet**: Andong Lu, Cun Qian, Chenglong Li, Jin Tang, and Liang Wang. Duality-Gated Mutual Condition Network forRGBT Tracking. In ArXiv, 2020. [[Paper]](https://arxiv.org/pdf/2011.07188.pdf)
 * **CAT**: Chenglong Li, Lei Liu, Andong Lu, Qing Ji, Jin Tang. Challenge-aware RGBT tracking. In _ECCV_, 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670222.pdf)

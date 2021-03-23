@@ -5,11 +5,11 @@ A comprehensive survey on multimodal tracking [[Paper]](https://arxiv.org/pdf/20
 # Citation
 If our paper and repositority are helpful for your work, please cite us,
 
-@article{Zhang_Arxiv20_MM_tracking_survey,
-author = {Pengyu Zhang and Dong Wang and Huchuan Lu},
-title = {Multi-modal Visual Tracking: Review and Experimental Comparison},
-journal={arXiv preprint arXiv:2012.04176},
-year={2020}
+@article{Zhang_Arxiv20_MM_tracking_survey,\\
+author = {Pengyu Zhang and Dong Wang and Huchuan Lu},\\
+title = {Multi-modal Visual Tracking: Review and Experimental Comparison},\\
+journal={arXiv preprint arXiv:2012.04176},\\
+year={2020}\\
 } 
 
 # Multimodal Tracking List

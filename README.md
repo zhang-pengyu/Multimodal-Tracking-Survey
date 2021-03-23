@@ -1,6 +1,16 @@
 # Multimodal Tracking Survey
-A comprehensive survey on multimodal tracking, including RGB-T and RGB-D tracking methods. This list will be long-term updating. If your related paper is missing in this review, feel free to contact [pyzhang@mail.dlut.edu.cn](mailto:pyzhang@mail.dlut.edu.cn).
+A comprehensive survey on multimodal tracking [Paper][https://arxiv.org/pdf/2012.04176.pdf], including RGB-T and RGB-D tracking methods. This list will be long-term updating. If your related paper is missing in this review, feel free to contact [pyzhang@mail.dlut.edu.cn](mailto:pyzhang@mail.dlut.edu.cn).
 ![alt text](https://github.com/zhang-pengyu/Multimodal_tracking_survey/blob/master/Paper_list_with_taxonomy.png)
+
+# Citation
+If our paper and repositority are helpful for your work, please cite us,
+
+@article{Zhang_Arxiv20_MM_tracking_survey,
+author = {Pengyu Zhang and Dong Wang and Huchuan Lu},
+title = {Multi-modal Visual Tracking: Review and Experimental Comparison},
+journal={arXiv preprint arXiv:2012.04176},
+year={2020}
+} 
 
 # Multimodal Tracking List
  ## RGB-D tracking

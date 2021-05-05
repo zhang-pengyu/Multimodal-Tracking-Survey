@@ -91,8 +91,9 @@ for RGB-T Object Tracking. In _ACM MM_, 2017. [[Paper]](https://dl.acm.org/doi/p
 ### 2016
 * **RT-LSR**: Chenglong Li, Shiyi Hu, Sihan Gao, Jin Tang. Real-Time Grayscale-Thermal Tracking via Laplacian Sparse Representation. In _MMM_, 2016. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-27674-8_6.pdf)
 * **CSR**: Chenglong Li, Hui Cheng, Shiyi Hu, Xiaobai Liu, Jin Tang, Liang Lin. Learning Collaborative Sparse Representation for Grayscale-Thermal Tracking. In _TIP_ 25(12), 2016.[[Paper]](http://linliang.net/wp-content/uploads/2017/07/TIP-LCSR.pdf)
+### 2012
+* **JSR**: Huaping Liu, Fuchun Sun. Fusion Tracking in Color and Infrared Images using Joint Sparse Representation. INIS 55(3), 2012. [[Paper]](https://link.springer.com/content/pdf/10.1007/s11432-011-4536-9.pdf)
 ### 2011
-* **JSR**: Huaping Liu, Fuchun Sun. Fusion Tracking in Color and Infrared Images using Joint Sparse Representation. IN _IS_ 55(3), 2012. [[Paper]](https://link.springer.com/content/pdf/10.1007/s11432-011-4536-9.pdf)
 * **L1-PF**: Yi Wu, Erik Blasch, Genshe Chen, Li Bai, Haibin Ling. Multiple Source Data Fusion via Sparse Representation for Robust Visual Tracking. IN _ICIF_, 2011. [[Paper]](https://ieeexplore.ieee.org/document/5977451)
 ### 2008
 * **PGM**: Siyue Chen, Wenjie Zhu, Henry Leung. Thermo-Visual Video Fusion Using Probabilistic Graphical Model for Human Tracking. In _ISCS_, 2008. [[Paper]](https://ieeexplore.ieee.org/abstract/document/4541820)

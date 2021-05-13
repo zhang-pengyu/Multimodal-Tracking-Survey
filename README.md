@@ -57,13 +57,12 @@ year={2020}\
 ## RGB-T Tracking
 ### 2021
 * **SiamIVFN**: Jingchao Peng, Haitao Zhao, Zhengwei Hu, Yi Zhuang and Bofan Wang. Siamese Infrared and Visible light fusion network for RGB-T Tracking. In ArXiv, 2021. [[Paper]](https://arxiv.org/pdf/2103.07302.pdf)
+* **JMMAC**: Pengyu Zhang, Jie Zhao, Chunjuan Bo, Dong Wang, Huchuan Lu, Xiaoyun Yang. Jointly Modeling Motion and Appearance Cues for Robust RGB-T Tracking. In TIP(30), 2021. [[Paper]](https://ieeexplore.ieee.org/document/9364880)
 ### 2020
 * **DMCNet**: Andong Lu, Cun Qian, Chenglong Li, Jin Tang, and Liang Wang. Duality-Gated Mutual Condition Network forRGBT Tracking. In ArXiv, 2020. [[Paper]](https://arxiv.org/pdf/2011.07188.pdf)
 * **CAT**: Chenglong Li, Lei Liu, Andong Lu, Qing Ji, Jin Tang. Challenge-aware RGBT tracking. In _ECCV_, 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670222.pdf)
 * **CMPP**: Chaoqun Wang, Chunyan Xu, Zhen Cui, Ling Zhou, Tong Zhang, Xiaoya Zhang, Jian Yang. Cross-modal pattern-propagation for RGB-T tracking. In _CVPR_, 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Cross-Modal_Pattern-Propagation_for_RGB-T_Tracking_CVPR_2020_paper.pdf)
 * **MaCNet**: Hui Zhang, Lei Zhang, Li Zhuo, Jing Zhang. Object Tracking in RGB-T Videos Using Modal-Aware Attention Network and Competitive Learning. In _Sensors_ 20(2), 2020. [[Paper]](https://www.mdpi.com/1424-8220/20/2/393)
-* **JMMAC**: Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiaoyun Yang. Jointly Modeling Motion and
-Appearance Cues for Robust RGB-T Tracking. In _Arxiv_, 2020. [[Paper]](https://arxiv.org/pdf/2007.02041.pdf)
 ### 2019 
 * **DAPNet**：Yabin Zhu, Chenglong Li, Bin Luo, Jin Tang, Xiao Wang. Dense Feature Aggregation and Pruning for RGBT Tracking. In _ACM MM_, 2019. [[Paper]](https://arxiv.org/pdf/1907.10451.pdf)
 * **HTF**: Chengwei Luo, Bin Sun, Ke Yang, Taoran Lu, Wei-Chang Yeh. Thermal Infrared and Visible Sequences Fusion Tracking based on a Hybrid Tracking Framework with Adaptive Weighting Scheme. In _IPT_ (99), 2019. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1350449519300258)

@@ -56,7 +56,8 @@ year={2020}\
   * **CDTB**:Alan Lukezic, Ugur Kart, Jani Kapyla, Ahmed Durmush, Joni-Kristian Kamarainen, Jiri Matas, Matej Kristan. CDTB: A Color and Depth Visual Object Tracking Dataset and Benchmark. In _ICCV_, 2019. [[Paper]](https://arxiv.org/pdf/1907.00618.pdf) [[Project]](https://www.vicos.si/Projects/CDTB) [[Dataset]](https://www.votchallenge.net/vot2019/dataset.html)
 ## RGB-T Tracking
 ### 2021
-* **SiamCDA**: Tianlu Zhang, Xueru Liu, Qiang Zhang and Jungong Han. SiamCDA: Complementarity-and distractor-aware RGB-T tracking based on Siamese network In TCSVT, 2021. [[Paper]](https://ieeexplore.ieee.org/document/9399460)
+* **ADRNet**: Pengyu Zhang, DongWang, Huchuan Lu and Xiaoyun Yang. Learning Adaptive Attribute-Driven Representation for Real-Time RGB-T Tracking. In IJCV, 2021. [[Paper]](https://link.springer.com/article/10.1007/s11263-021-01495-3) [[Code]](https://github.com/zhang-pengyu/ADRNet)
+* **SiamCDA**: Tianlu Zhang, Xueru Liu, Qiang Zhang and Jungong Han. SiamCDA: Complementarity-and distractor-aware RGB-T tracking based on Siamese network. In TCSVT, 2021. [[Paper]](https://ieeexplore.ieee.org/document/9399460)
 * **SiamIVFN**: Jingchao Peng, Haitao Zhao, Zhengwei Hu, Yi Zhuang and Bofan Wang. Siamese Infrared and Visible light fusion network for RGB-T Tracking. In ArXiv, 2021. [[Paper]](https://arxiv.org/pdf/2103.07302.pdf)
 * **JMMAC**: Pengyu Zhang, Jie Zhao, Chunjuan Bo, Dong Wang, Huchuan Lu, Xiaoyun Yang. Jointly Modeling Motion and Appearance Cues for Robust RGB-T Tracking. In TIP(30), 2021. [[Paper]](https://ieeexplore.ieee.org/document/9364880)
 ### 2020

@@ -59,7 +59,7 @@ year={2020}\
 * **ADRNet**: Pengyu Zhang, DongWang, Huchuan Lu and Xiaoyun Yang. Learning Adaptive Attribute-Driven Representation for Real-Time RGB-T Tracking. In IJCV, 2021. [[Paper]](https://link.springer.com/article/10.1007/s11263-021-01495-3) [[Code]](https://github.com/zhang-pengyu/ADRNet)
 * **SiamCDA**: Tianlu Zhang, Xueru Liu, Qiang Zhang and Jungong Han. SiamCDA: Complementarity-and distractor-aware RGB-T tracking based on Siamese network. In TCSVT, 2021. [[Paper]](https://ieeexplore.ieee.org/document/9399460)
 * **SiamIVFN**: Jingchao Peng, Haitao Zhao, Zhengwei Hu, Yi Zhuang and Bofan Wang. Siamese Infrared and Visible light fusion network for RGB-T Tracking. In ArXiv, 2021. [[Paper]](https://arxiv.org/pdf/2103.07302.pdf)
-* **JMMAC**: Pengyu Zhang, Jie Zhao, Chunjuan Bo, Dong Wang, Huchuan Lu, Xiaoyun Yang. Jointly Modeling Motion and Appearance Cues for Robust RGB-T Tracking. In TIP(30), 2021. [[Paper]](https://ieeexplore.ieee.org/document/9364880)
+* **JMMAC**: Pengyu Zhang, Jie Zhao, Chunjuan Bo, Dong Wang, Huchuan Lu, Xiaoyun Yang. Jointly Modeling Motion and Appearance Cues for Robust RGB-T Tracking. In TIP(30), 2021. [[Paper]](https://ieeexplore.ieee.org/document/9364880) [[Code]](https://github.com/zhang-pengyu/JMMAC)
 ### 2020
 * **DMCNet**: Andong Lu, Cun Qian, Chenglong Li, Jin Tang, and Liang Wang. Duality-Gated Mutual Condition Network forRGBT Tracking. In ArXiv, 2020. [[Paper]](https://arxiv.org/pdf/2011.07188.pdf)
 * **CAT**: Chenglong Li, Lei Liu, Andong Lu, Qing Ji, Jin Tang. Challenge-aware RGBT tracking. In _ECCV_, 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670222.pdf)

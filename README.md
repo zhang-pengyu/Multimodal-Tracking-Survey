@@ -54,6 +54,8 @@ year={2020}\
   * **PTB**: Shuran Song, Jianxiong Xiao. Tracking Revisited using RGBD Camera: Unified Benchmark and Baselines. In _ICCV_, 2013. [[Paper]](https://vision.princeton.edu/projects/2013/tracking/paper.pdf) [[Project]](https://tracking.cs.princeton.edu/index.html) [[Dataset]](https://tracking.cs.princeton.edu/dataset.html)
   * **STC**: Jingjing Xiao, Rustam Stolkin, Yuqing Gao, Aleš Leonardis. Robust Fusion of Color and Depth Data for RGB-D Target Tracking Using Adaptive Range-Invariant Depth Models and Spatio-Temporal Consistency Constraints. In _TC_ 48(8) 2018. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8026575) [[Dataset]](https://beardatashare.bham.ac.uk/dl/fiVnhJRjkyNN8QjSAoiGSiBY/RGBDdataset.zip)
   * **CDTB**:Alan Lukezic, Ugur Kart, Jani Kapyla, Ahmed Durmush, Joni-Kristian Kamarainen, Jiri Matas, Matej Kristan. CDTB: A Color and Depth Visual Object Tracking Dataset and Benchmark. In _ICCV_, 2019. [[Paper]](https://arxiv.org/pdf/1907.00618.pdf) [[Project]](https://www.vicos.si/Projects/CDTB) [[Dataset]](https://www.votchallenge.net/vot2019/dataset.html)
+  *  **DepthTrack**: Song Yan, Jinyu Yang, Jani Käpylä, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen. DepthTrack : Unveiling the Power of RGBD Tracking. [[Paper]](https://arxiv.org/abs/2108.13962)
+  
 ## RGB-T Tracking
 ### 2021
 * **ADRNet**: Pengyu Zhang, DongWang, Huchuan Lu and Xiaoyun Yang. Learning Adaptive Attribute-Driven Representation for Real-Time RGB-T Tracking. In IJCV, 2021. [[Paper]](https://link.springer.com/article/10.1007/s11263-021-01495-3) [[Code]](https://github.com/zhang-pengyu/ADRNet)

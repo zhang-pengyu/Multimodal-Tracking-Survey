@@ -58,6 +58,7 @@ year={2020}\
   
 ## RGB-T Tracking
 ### 2021
+* **DFNet**: Jingchao Peng, Haitao Zhao and Zhengwei Hu. Dynamic Fusion Network for RGBT Tracking. In ArXiv, 2021. [[Paper]](https://arxiv.org/pdf/2109.07662.pdf)
 * **ADRNet**: Pengyu Zhang, DongWang, Huchuan Lu and Xiaoyun Yang. Learning Adaptive Attribute-Driven Representation for Real-Time RGB-T Tracking. In IJCV, 2021. [[Paper]](https://link.springer.com/article/10.1007/s11263-021-01495-3) [[Code]](https://github.com/zhang-pengyu/ADRNet)
 * **SiamCDA**: Tianlu Zhang, Xueru Liu, Qiang Zhang and Jungong Han. SiamCDA: Complementarity-and distractor-aware RGB-T tracking based on Siamese network. In TCSVT, 2021. [[Paper]](https://ieeexplore.ieee.org/document/9399460)
 * **SiamIVFN**: Jingchao Peng, Haitao Zhao, Zhengwei Hu, Yi Zhuang and Bofan Wang. Siamese Infrared and Visible light fusion network for RGB-T Tracking. In ArXiv, 2021. [[Paper]](https://arxiv.org/pdf/2103.07302.pdf)

@@ -55,6 +55,7 @@ year={2020}\
   * **STC**: Jingjing Xiao, Rustam Stolkin, Yuqing Gao, Aleš Leonardis. Robust Fusion of Color and Depth Data for RGB-D Target Tracking Using Adaptive Range-Invariant Depth Models and Spatio-Temporal Consistency Constraints. In _TC_ 48(8) 2018. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8026575) [[Dataset]](https://beardatashare.bham.ac.uk/dl/fiVnhJRjkyNN8QjSAoiGSiBY/RGBDdataset.zip)
   * **CDTB**:Alan Lukezic, Ugur Kart, Jani Kapyla, Ahmed Durmush, Joni-Kristian Kamarainen, Jiri Matas, Matej Kristan. CDTB: A Color and Depth Visual Object Tracking Dataset and Benchmark. In _ICCV_, 2019. [[Paper]](https://arxiv.org/pdf/1907.00618.pdf) [[Project]](https://www.vicos.si/Projects/CDTB) [[Dataset]](https://www.votchallenge.net/vot2019/dataset.html)
   *  **DepthTrack**: Song Yan, Jinyu Yang, Jani Käpylä, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen. DepthTrack : Unveiling the Power of RGBD Tracking. In ArXiv, 2021. [[Paper]](https://arxiv.org/abs/2108.13962)
+  *  **RGBD1k**: Xue-Feng Zhu, Tianyang Xu, Zhangyong Tang, Zucheng Wu, Haodong Liu, Xiao Yang, Xiao-Jun Wu, Josef Kittler. RGBD1K：A Large-scale Dataset and Benchmark for RGB-D Object Tracking. In ArXiv, 2022. [[Paper]](https://arxiv.org/pdf/2208.09787.pdf)
   
 ## RGB-T Tracking
 ### 2021

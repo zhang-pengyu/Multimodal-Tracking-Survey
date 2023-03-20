@@ -14,6 +14,8 @@ year={2020}\
 
 # Multimodal Tracking List
  ## RGB-D tracking
+ ### 2022
+  * **DMTracker**: Shang Gao, Jinyu Yang, Zhe Li, Feng Zheng, Ales leonardis, Jingkuan Song. Learning Dual-Fused Modality-Aware Representations for RGBD Tracking. In _ECCV workshop_, 2022. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-25085-9_27)
  ### 2020
  * **WCO**: Weichun Liu, Xiaoan Tang, Chengling Zhao. Robust RGBD Tracking via Weighted Convlution Operators. In _Sensors_ 20(8), 2020. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8950173/)
  ### 2019

@@ -60,9 +60,11 @@ year={2020}\
   *  **RGBD1k**: Xue-Feng Zhu, Tianyang Xu, Zhangyong Tang, Zucheng Wu, Haodong Liu, Xiao Yang, Xiao-Jun Wu, Josef Kittler. RGBD1K：A Large-scale Dataset and Benchmark for RGB-D Object Tracking. In ArXiv, 2022. [[Paper]](https://arxiv.org/pdf/2208.09787.pdf)
   
 ## RGB-T Tracking
+### 2023
+* **CIC**: Xingchen Zhang, Yiannis Demiris. Self-Supervised RGB-T Tracking with Cross-Input Consistency In _ArXiv_ 2023.[[paper]](https://arxiv.org/pdf/2301.11274.pdf)
 ### 2022
-* **APFNet**: Yun Xiao, Mengmeng Yang, Chenglong Li, Lei Liu, Jin Tang. Attribute-Based Progressive Fusion Network for RGBT Tracking. In AAAI 2022. [[Paper]](file:///C:/Users/Administrator/Downloads/20187-Article%20Text-24200-1-2-20220628.pdf) [[code]](https://github.com/yangmengmeng1997/APFNet)
-* **HMFT**: Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiang Ruan. Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline. In CVPR 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Visible-Thermal_UAV_Tracking_A_Large-Scale_Benchmark_and_New_Baseline_CVPR_2022_paper.pdf) [[code]](https://github.com/zhang-pengyu/HMFT)
+* **APFNet**: Yun Xiao, Mengmeng Yang, Chenglong Li, Lei Liu, Jin Tang. Attribute-Based Progressive Fusion Network for RGBT Tracking. In _AAAI_ 2022. [[Paper]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiN8pfsgOz9AhWjR2wGHYNMCqEQFnoECA4QAQ&url=https%3A%2F%2Fojs.aaai.org%2Findex.php%2FAAAI%2Farticle%2Fview%2F20187%2F19946&usg=AOvVaw15V9Zdd0Rber0L5eHUKAAe) [[code]](https://github.com/yangmengmeng1997/APFNet)
+* **HMFT**: Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiang Ruan. Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline. In _CVPR_ 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Visible-Thermal_UAV_Tracking_A_Large-Scale_Benchmark_and_New_Baseline_CVPR_2022_paper.pdf) [[code]](https://github.com/zhang-pengyu/HMFT)
 ### 2021
 * **DFNet**: Jingchao Peng, Haitao Zhao and Zhengwei Hu. Dynamic Fusion Network for RGBT Tracking. In ArXiv, 2021. [[Paper]](https://arxiv.org/pdf/2109.07662.pdf)
 * **ADRNet**: Pengyu Zhang, DongWang, Huchuan Lu and Xiaoyun Yang. Learning Adaptive Attribute-Driven Representation for Real-Time RGB-T Tracking. In IJCV, 2021. [[Paper]](https://link.springer.com/article/10.1007/s11263-021-01495-3) [[Code]](https://github.com/zhang-pengyu/ADRNet)

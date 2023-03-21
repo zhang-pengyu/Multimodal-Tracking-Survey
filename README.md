@@ -63,6 +63,7 @@ year={2020}\
 ### 2023
 * **CIC**: Xingchen Zhang, Yiannis Demiris. Self-Supervised RGB-T Tracking with Cross-Input Consistency In _ArXiv_ 2023.[[paper]](https://arxiv.org/pdf/2301.11274.pdf)
 ### 2022
+* **LRMWT**: Mengzheng Feng, Jianbo Su. Learning reliable modal weight with transformer for robust RGBT tracking. In _KBS_, 2022. [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705122004579?ref=cra_js_challenge&fr=RR-1)
 * **APFNet**: Yun Xiao, Mengmeng Yang, Chenglong Li, Lei Liu, Jin Tang. Attribute-Based Progressive Fusion Network for RGBT Tracking. In _AAAI_ 2022. [[Paper]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiN8pfsgOz9AhWjR2wGHYNMCqEQFnoECA4QAQ&url=https%3A%2F%2Fojs.aaai.org%2Findex.php%2FAAAI%2Farticle%2Fview%2F20187%2F19946&usg=AOvVaw15V9Zdd0Rber0L5eHUKAAe) [[code]](https://github.com/yangmengmeng1997/APFNet)
 * **HMFT**: Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiang Ruan. Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline. In _CVPR_ 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Visible-Thermal_UAV_Tracking_A_Large-Scale_Benchmark_and_New_Baseline_CVPR_2022_paper.pdf) [[code]](https://github.com/zhang-pengyu/HMFT)
 ### 2021

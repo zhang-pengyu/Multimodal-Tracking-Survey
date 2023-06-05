@@ -63,6 +63,9 @@ year={2020}\
 ## RGB-T Tracking
 ### 2023
 * **CIC**: Xingchen Zhang, Yiannis Demiris. Self-Supervised RGB-T Tracking with Cross-Input Consistency In _ArXiv_ 2023.[[paper]](https://arxiv.org/pdf/2301.11274.pdf)
+* **MACFT**: Yang Luo, Xiqing Guo, Mingtao Dong, Jin Yu. RGB-T Tracking Based on Mixed Attention. In _ArXiv_ 2023. [[paper]](https://arxiv.org/ftp/arxiv/papers/2304/2304.04264.pdf)
+* **TBSI**: Tianrui Hui, Zizheng Xun, Fengguang Peng, Junshi Huang, Xiaoming Wei, Xiaolin Wei, Jiao Dai, Jizhong Han, Si Liu. Bridging Search Region Interaction with Template for RGB-T Tracking. In _CVPR_ 2023. [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Hui_Bridging_Search_Region_Interaction_With_Template_for_RGB-T_Tracking_CVPR_2023_paper.pdf)
+* **CMD** Tianlu Zhang, Hongyuan Guo, Qiang Jiao, Qiang Zhang, Jungong Han. Efficient RGB-T Tracking via Cross-Modality Distillation. In _CVPR_ 2023. [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Efficient_RGB-T_Tracking_via_Cross-Modality_Distillation_CVPR_2023_paper.pdf)
 ### 2022
 * **LRMWT**: Mengzheng Feng, Jianbo Su. Learning reliable modal weight with transformer for robust RGBT tracking. In _KBS_, 2022. [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705122004579?ref=cra_js_challenge&fr=RR-1)
 * **APFNet**: Yun Xiao, Mengmeng Yang, Chenglong Li, Lei Liu, Jin Tang. Attribute-Based Progressive Fusion Network for RGBT Tracking. In _AAAI_ 2022. [[Paper]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiN8pfsgOz9AhWjR2wGHYNMCqEQFnoECA4QAQ&url=https%3A%2F%2Fojs.aaai.org%2Findex.php%2FAAAI%2Farticle%2Fview%2F20187%2F19946&usg=AOvVaw15V9Zdd0Rber0L5eHUKAAe) [[code]](https://github.com/yangmengmeng1997/APFNet)

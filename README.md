@@ -58,6 +58,7 @@ year={2020}\
   * **CDTB**:Alan Lukezic, Ugur Kart, Jani Kapyla, Ahmed Durmush, Joni-Kristian Kamarainen, Jiri Matas, Matej Kristan. CDTB: A Color and Depth Visual Object Tracking Dataset and Benchmark. In _ICCV_, 2019. [[Paper]](https://arxiv.org/pdf/1907.00618.pdf) [[Project]](https://www.vicos.si/Projects/CDTB) [[Dataset]](https://www.votchallenge.net/vot2019/dataset.html)
   *  **DepthTrack**: Song Yan, Jinyu Yang, Jani Käpylä, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen. DepthTrack : Unveiling the Power of RGBD Tracking. In ArXiv, 2021. [[Paper]](https://arxiv.org/abs/2108.13962)
   *  **RGBD1k**: Xue-Feng Zhu, Tianyang Xu, Zhangyong Tang, Zucheng Wu, Haodong Liu, Xiao Yang, Xiao-Jun Wu, Josef Kittler. RGBD1K：A Large-scale Dataset and Benchmark for RGB-D Object Tracking. In ArXiv, 2022. [[Paper]](https://arxiv.org/pdf/2208.09787.pdf)
+  *   **D2Cube**: Jinyu Yang, Shang Gao, Zhe Li, Feng Zheng, Ales Leonardis. Resource-Efficient RGBD Aerial Tracking. In CVPR 2023. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Resource-Efficient_RGBD_Aerial_Tracking_CVPR_2023_paper.pdf) [[Project]](https://github.com/yjybuaa/RGBDAerialTracking)
   
 ## RGB-T Tracking
 ### 2023
